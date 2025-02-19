@@ -2,7 +2,7 @@
   "project" : "TES_GIT",
   "projectId" : "888baa02-a9ad-41c3-816d-43358f08d722",
   "created_by" : "isharridho",
-  "created_at" : "2025-02-18T12:55:52.907830776Z",
+  "created_at" : "2025-02-19T08:18:33.097966894Z",
   "environment" : "cp4d",
   "services_info" : [ {
     "name" : "ds-canvas",
@@ -45,7 +45,15 @@
     "type" : "data_intg_flow",
     "location" : ""
   }, {
+    "name" : "TES_GIT_3.",
+    "type" : "data_intg_flow",
+    "location" : ""
+  }, {
     "name" : "TES_GIT_1.DataStage job.",
+    "type" : "job",
+    "location" : ""
+  }, {
+    "name" : "TES_GIT_3.DataStage job.",
     "type" : "job",
     "location" : ""
   } ],
