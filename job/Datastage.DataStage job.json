@@ -1,0 +1,33 @@
+{
+  "metadata" : {
+    "name" : "Datastage.DataStage job",
+    "asset_id" : "8bfb53b2-6828-4719-b683-8dba62a9798f",
+    "owner_id" : "1000331005",
+    "version" : 0
+  },
+  "entity" : {
+    "job" : {
+      "asset_ref_type" : "data_intg_flow",
+      "configuration" : {
+        "env_variables" : [ ],
+        "flow_limits" : {
+          "warn_limit" : 100
+        },
+        "runPriorityQueue" : "Medium",
+        "env_type" : ""
+      },
+      "last_run_initiator" : "deprecated field",
+      "last_run_time" : "deprecated field",
+      "last_run_status" : "deprecated field",
+      "last_run_status_timestamp" : 0,
+      "future_scheduled_runs" : [ ],
+      "enable_notifications" : true,
+      "project_name" : "TES_GIT",
+      "asset_ref" : "0190af80-a5ac-43bf-a2ec-1587221a3106",
+      "parameter_sets" : [ ],
+      "schedule_id" : "",
+      "schedule_creator_id" : "",
+      "flow_name" : "Datastage"
+    }
+  }
+}
